@@ -1,2 +1,2 @@
 # JAVA-Tutorials
-Example code of JAVA basic to advance.
+Example code of JAVA, beginner's to advance.
